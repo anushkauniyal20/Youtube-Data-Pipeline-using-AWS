@@ -31,4 +31,4 @@ AWS IAM (Identity and Access Management): Ensures secure access management, cont
 Amazon QuickSight: A business intelligence and visualization tool that enables the creation of interactive dashboards, allowing insights and trends from the processed data to be easily visualized and analyzed. Visualized the clean dataset to uncover key insights.
 
 # Architecture
-https://github.com/anushkauniyal20/Youtube-Data-Pipeline-using-AWS/blob/main/architecture.jpeg
+![image](https://github.com/anushkauniyal20/Youtube-Data-Pipeline-using-AWS/blob/main/architecture.jpeg)

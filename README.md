@@ -15,7 +15,7 @@ Scalability — Ensure that the system can scale effectively as data volume grow
 
 Cloud Infrastructure — Leverage cloud resources, specifically AWS, to handle large datasets that exceed local processing capabilities.
 
-Reporting — Create an interactive dashboard to provide insights and answer the key questions posed earlier.
+Reporting — Create an interactive dashboard to provide insights and answer the key questions.
 
 # AWS Services Used
 Amazon S3 (Simple Storage Service): A scalable object storage service used to store raw data, intermediate results, and processed outputs securely in the data pipeline. I used S3 buckets to first store the raw data(csv and json format) using the AWS Command Line Interface. Then usde S3 buckets to store cleansed data to use for further processing.
